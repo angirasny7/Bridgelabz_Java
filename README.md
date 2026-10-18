@@ -52,3 +52,18 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 **Issues faced**
 - Worked through package organization and Git branching to keep source code and daily progress updates separate.
+
+### Day 04 — 18 Oct 2026
+
+**What I have done**
+- Completed Java Control Flow exercises across Level 1, Level 2, and Level 3.
+- Practiced conditional statements, loops, switch statements, and other control flow concepts.
+- Organized the solutions into the `javaControlFlow` package structure.
+- Pushed the completed programs to the `feature/coreProgramming` branch.
+
+**What I will do**
+- Review and test the completed Java programs.
+- Continue practicing Java concepts and the next set of assigned problems.
+
+**Issues faced**
+- Faced some difficulties while understanding and implementing certain control flow problems, which I resolved through practice and testing.
