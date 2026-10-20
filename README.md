@@ -67,3 +67,33 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 **Issues faced**
 - Faced some difficulties while understanding and implementing certain control flow problems, which I resolved through practice and testing.
+
+### Day 05 — 19 Oct 2026
+
+**What I have done**
+- Completed Java Arrays exercises across Level 1 and Level 2.
+- Practiced array operations, number analysis, and solving programming problems using arrays.
+- Organized the solutions into the `Arrays` package with separate `Level1` and `Level2` folders.
+- Pushed the completed programs to the `feature/coreProgramming` branch.
+
+**What I will do**
+- Continue practicing Java programming concepts.
+- Work on the next set of assigned Java topics and exercises.
+
+**Issues faced**
+- Worked on debugging array operations and validating program outputs with different inputs.
+
+### Day 06 — 20 Oct 2026
+
+**What I have done**
+- Completed Java Methods exercises across Level 1, Level 2, and Level 3.
+- Practiced defining methods, passing arguments, returning values, and reusing methods.
+- Organized the solutions into the `Methods` package with separate level-wise folders.
+- Pushed the completed programs to the `feature/coreProgramming` branch.
+
+**What I will do**
+- Review and practice the completed Java programs.
+- Continue with the next assigned Java topics and programming exercises.
+
+**Issues faced**
+- Practiced debugging method implementations and verifying outputs with different inputs.
