@@ -4,96 +4,149 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Repository Structure
 
-- `main` — Daily progress updates
-- `develop` — Empty Java project skeleton
-- `feature/*` — Week-wise branches containing Java solutions
+- `main` : Contains this README with daily task updates.
+- `develop` : Contains the empty `Bridgelabz_Java` project skeleton.
+- `feature/*` : Contains week-wise topic branches with the completed solutions.
 
 ## Daily Task Update
 
-### Day 01 — 15 Oct 2026
+### Day 07 — 22 Oct 2026
 
 **What I have done**
-- Learned Git and GitHub basics.
-- Practiced repository setup and essential Git commands.
+
+- Practiced Java Classes and Objects through Level 1 and Level 2 exercises.
+- Implemented programs for student grading, ATM transactions, palindrome checking, movie ticket booking, and shopping cart management.
+- Learned Java constructors and access modifiers, including `public`, `protected`, default, and `private`.
+- Understood constructor accessibility, private constructors, utility classes, and Singleton concepts.
+- Practiced writing Java programs using user input, Javadoc comments, and single-line comments.
 
 **What I will do**
-- Learn Java fundamentals.
-- Practice basic Java programming problems.
+
+- Continue practicing Java OOP concepts and DSA problems.
+- Improve my understanding of Java concepts and technical explanations.
 
 **Issues faced**
-- None.
 
-### Day 02 — 16 Oct 2026
+- None
+
+---
+
+### Day 06 — 21 Oct 2026
 
 **What I have done**
-- Started learning Java fundamentals.
-- Studied comments, data types, variables, and arithmetic operators.
-- Learned operator precedence, type conversion, and taking user input in Java.
-- Practiced using IntelliJ IDEA and organizing programs into packages.
+
+- Practiced Java Strings Level 1, Level 2, and Level 3 lab exercises.
+- Learned string manipulation, character operations, substring handling, and exception handling.
+- Practiced Java Methods and modular programming through number guessing, prime checking, Fibonacci, palindrome, factorial, GCD, and LCM programs.
+- Implemented temperature conversion and basic calculator programs using user-defined methods.
 
 **What I will do**
-- Work on Java Programming Elements Level 1 and Level 2 exercises.
-- Practice the assigned programming problems.
+
+- Continue practicing Java Strings, Methods, and problem-solving exercises.
 
 **Issues faced**
-- Needed some practice understanding how Java packages correspond to folders in a project.
 
-### Day 03 — 17 Oct 2026
+- None
 
-**What I have done**
-- Practiced Java Programming Elements Level 1 and Level 2 exercises.
-- Worked on basic programs such as Armstrong number, palindrome, reversing a number, and swapping numbers.
-- Organized and pushed 33 Java programs to `feature/coreProgramming`, under `basicPrograms` and `javaProgrammingElement`.
-
-**What I will do**
-- Continue working on the remaining Java assignments.
-- Test the solutions before pushing them to GitHub.
-- Strengthen my understanding of Java fundamentals.
-
-**Issues faced**
-- Worked through package organization and Git branching to keep source code and daily progress updates separate.
-
-### Day 04 — 18 Oct 2026
-
-**What I have done**
-- Completed Java Control Flow exercises across Level 1, Level 2, and Level 3.
-- Practiced conditional statements, loops, switch statements, and other control flow concepts.
-- Organized the solutions into the `javaControlFlow` package structure.
-- Pushed the completed programs to the `feature/coreProgramming` branch.
-
-**What I will do**
-- Review and test the completed Java programs.
-- Continue practicing Java concepts and the next set of assigned problems.
-
-**Issues faced**
-- Faced some difficulties while understanding and implementing certain control flow problems, which I resolved through practice and testing.
+---
 
 ### Day 05 — 19 Oct 2026
 
 **What I have done**
-- Completed Java Arrays exercises across Level 1 and Level 2.
-- Practiced array operations, number analysis, and solving programming problems using arrays.
-- Organized the solutions into the `Arrays` package with separate `Level1` and `Level2` folders.
-- Pushed the completed programs to the `feature/coreProgramming` branch.
+
+- Learned Java Methods, including user-defined methods, method reusability, recursion, and static methods.
+- Practiced Java standard library methods and the `java.lang.Math` class.
+- Practiced Java Arrays and Multidimensional Arrays, including array creation, accessing, modification, loops, and the `length` property.
+- Learned 2D arrays, matrix operations, `System.err`, and `System.exit()`.
 
 **What I will do**
-- Continue practicing Java programming concepts.
-- Work on the next set of assigned Java topics and exercises.
+
+- Complete Level 1, Level 2, and Level 3 Java Methods and Array Lab Practices.
 
 **Issues faced**
-- Worked on debugging array operations and validating program outputs with different inputs.
 
-### Day 06 — 20 Oct 2026
+- None
+
+---
+
+### Day 04 — 18 Oct 2026
 
 **What I have done**
-- Completed Java Methods exercises across Level 1, Level 2, and Level 3.
-- Practiced defining methods, passing arguments, returning values, and reusing methods.
-- Organized the solutions into the `Methods` package with separate level-wise folders.
-- Pushed the completed programs to the `feature/coreProgramming` branch.
+
+- Completed Level 1, Level 2, and Level 3 Java Control Flow programs.
+- Practiced loops, conditional statements, logical operators, and switch-case.
+- Staged the completed programs using Git.
 
 **What I will do**
-- Review and practice the completed Java programs.
-- Continue with the next assigned Java topics and programming exercises.
+
+- Test all programs and commit the changes.
+- Push the code to GitHub.
+- Add code blocks to the Google Doc for submission.
 
 **Issues faced**
-- Practiced debugging method implementations and verifying outputs with different inputs.
+
+- Configuring command-line arguments for `DayOfWeek`.
+
+---
+
+### Day 03 — 17 Oct 2026
+
+**What I have done**
+
+- Practiced Java Programming Elements.
+- Worked on Level 1 and Level 2 programs.
+
+**Topics covered**
+
+- Java Comments
+- Java Basic Data Types
+- Java Variables
+- Arithmetic Operators
+- Operator Precedence
+- Type Conversion
+- Taking User Input in Java Programs
+
+**What I will do**
+
+- Complete the remaining Level 1 and Level 2 programs.
+- Test the solutions and push the completed code to GitHub.
+
+**Issues faced**
+
+- None
+
+---
+
+### Day 02 — 16 Oct 2026
+
+**What I have done**
+
+- Learned Java fundamentals.
+- Practiced basic Java programming concepts.
+
+**What I will do**
+
+- Complete Java Programming Elements Level 1 and Level 2 programs.
+- Practice the assigned problems.
+
+**Issues faced**
+
+- None
+
+---
+
+### Day 01 — 15 Oct 2026
+
+**What I have done**
+
+- Learned Git basics.
+- Practiced repository setup and Git commands.
+
+**What I will do**
+
+- Learn Java fundamentals.
+- Practice Java programming problems.
+
+**Issues faced**
+
+- None
