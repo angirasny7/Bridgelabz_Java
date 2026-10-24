@@ -10,6 +10,26 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 08 — 23 Oct 2026
+
+**What I have done**
+
+- Practiced Java `this`, `static`, and `final` keywords through assigned exercises.
+- Learned object modeling concepts and implemented programs using classes and objects.
+- Practiced modeling real-world entities and relationships using Java classes.
+- Worked on assignments involving object initialization, constructors, and class-level members.
+
+**What I will do**
+
+- Continue practicing Java OOP concepts, including inheritance, polymorphism, and encapsulation.
+- Strengthen my understanding of object-oriented design through practical assignments.
+
+**Issues faced**
+
+- None
+
+---
+
 ### Day 07 — 22 Oct 2026
 
 **What I have done**
