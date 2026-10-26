@@ -10,6 +10,25 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 09 — 24 Oct 2026
+
+**What I have done**
+
+- Learned Encapsulation and Polymorphism in Java.
+- Studied Interfaces and Abstract Classes.
+- Practiced implementing OOP concepts through Java programs.
+
+**What I will do**
+
+- Practice Java OOP concepts through lab exercises.
+- Implement programs using Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
+
+**Issues faced**
+
+- Faced some difficulty understanding when to use Abstract Classes and Interfaces.
+
+---
+
 ### Day 08 — 23 Oct 2026
 
 **What I have done**
