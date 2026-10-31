@@ -10,6 +10,83 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+## Day 13 — 29 Oct 2026
+
+**What I have done**
+
+- Solved Java programming problems based on sorting and searching algorithms.
+- Practiced Linear Search and Binary Search implementations.
+- Completed File I/O exercises using FileReader, InputStreamReader, and BufferedReader.
+- Worked on StringBuilder and StringBuffer programming questions.
+- Committed and pushed the completed solutions to the Data Structures feature branch.
+
+**What I will do**
+
+- Continue solving Data Structures and Algorithms problems.
+- Work on the remaining questions in the DSA practice sheet.
+- Revise concepts for the upcoming DSA review session.
+
+**Issues faced**
+
+- None.
+
+---
+
+## Day 12 — 28 Oct 2026
+
+**What I have done**
+
+- Studied and implemented sorting algorithms, including Bubble Sort, Selection Sort, and Insertion Sort.
+- Solved Java programming exercises based on sorting techniques.
+- Explored the differences between stable and unstable sorting algorithms.
+
+**What I will do**
+
+- Solve additional problems based on sorting algorithms.
+- Learn and practice Linear Search and Binary Search.
+- Work on the pending Data Structures assignments.
+
+**Issues faced**
+
+- None.
+
+---
+
+## Day 11 — 27 Oct 2026
+
+**What I have done**
+
+- Solved programming exercises related to HashMap in Java.
+- Created a separate feature branch for Data Structures practice.
+- Explored and practiced fundamental Java Data Structures concepts.
+
+**What I will do**
+
+- Study and implement sorting and searching algorithms.
+- Continue practicing Data Structures problems.
+
+**Issues faced**
+
+- None.
+
+---
+
+## Day 10 — 26 Oct 2026
+
+**What I have done**
+
+- Practiced Linked List operations, including insertion, deletion, and updating nodes.
+- Revised core Object-Oriented Programming concepts in Java.
+
+**What I will do**
+
+- Complete the Encapsulation programming exercises.
+- Study Queue concepts and their implementation in Java.
+
+**Issues faced**
+
+- None.
+
 ### Day 09 — 24 Oct 2026
 
 **What I have done**
